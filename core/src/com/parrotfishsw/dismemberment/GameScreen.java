@@ -109,7 +109,7 @@ public class GameScreen implements Screen {
 		float mapUnits = DsConstants.METERS_PER_PIXEL * 10;
 		mbMgr = new MapBodyManager(world, null, Logger.DEBUG, mapUnits);
 
-		// Setup particle effects TODO fix particle loaders
+		// Setup particle effects
 		ParticleEffectBox2d blood = new ParticleEffectBox2d(world);
 		ParticleEffectBox2d sparks = new ParticleEffectBox2d(world, false);
 		blood.load(Gdx.files.internal("data/particles/blood1.p"),
