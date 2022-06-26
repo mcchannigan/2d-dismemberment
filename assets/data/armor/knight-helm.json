@@ -1,0 +1,16 @@
+{
+	"name" : "Knight Helm",
+	"value" : 350,
+	"weight" : 3.5,
+	"minStr" : 14,
+	"minDex" : 0,
+	"minInt" : 0,
+	"uiImage" : "claymore-thumb",
+	"armor" : {
+		"defense" : 35,
+		"fireDefense" : 10,
+		"lightningDefense" : 0,
+		"class" : 3,
+		"type" : 1
+	}	
+}

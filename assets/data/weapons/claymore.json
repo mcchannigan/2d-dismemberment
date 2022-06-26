@@ -1,0 +1,48 @@
+{
+	"name" : "Claymore",
+	"value" : 300,
+	"weight" : 6.0,
+	"minStr" : 20,
+	"minDex" : 6,
+	"minInt" : 0,
+	"uiImage" : "claymore-thumb",
+	"weapon" : {
+		"damage" : 60,
+		"fireDamage" : 0,
+		"lightningDamage" : 0,
+		"scaleStr" : 3,
+		"scaleDex" : 1,
+		"scaleInt" : 0,
+		"twoHand" : true,
+		"moveSet" : {
+			"light0" : {
+				"type" : 3,
+				"cost" : 15,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "smash_heavy_2h"
+			},
+			"light1" : {
+				"type" : 0,
+				"cost" : 15,
+				"order" : 1,
+				"withShield" : false,
+				"animation" : "swing_heavy_2h"
+			},
+			"heavy0" : {
+				"type" : 1,
+				"cost" : 20,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "stab_2h"
+			},
+			"heavy1" : {
+				"type" : 3,
+				"cost" : 10,
+				"order" : 1,
+				"withShield" : false,
+				"animation" : "stab2_2h"
+			}
+		}
+	}
+}

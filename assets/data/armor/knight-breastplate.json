@@ -1,0 +1,16 @@
+{
+	"name" : "Knight Armor",
+	"value" : 600,
+	"weight" : 15,
+	"minStr" : 18,
+	"minDex" : 0,
+	"minInt" : 0,
+	"uiImage" : "claymore-thumb",
+	"armor" : {
+		"defense" : 95,
+		"fireDefense" : 60,
+		"lightningDefense" : 0,
+		"class" : 3,
+		"type" : 2
+	}	
+}

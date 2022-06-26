@@ -1,0 +1,16 @@
+{
+	"name" : "Full Helm",
+	"value" : 80,
+	"weight" : 2.5,
+	"minStr" : 10,
+	"minDex" : 0,
+	"minInt" : 0,
+	"uiImage" : "",
+	"armor" : {
+		"defense" : 15,
+		"fireDefense" : 2,
+		"lightningDefense" : 0,
+		"class" : 1,
+		"type" : 1
+	}	
+}

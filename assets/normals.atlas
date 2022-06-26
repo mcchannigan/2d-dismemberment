@@ -1,0 +1,327 @@
+
+normals.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-near
+  rotate: false
+  xy: 596, 116
+  size: 173, 170
+  orig: 180, 179
+  offset: 2, 5
+  index: -1
+arm-near2
+  rotate: false
+  xy: 876, 213
+  size: 81, 109
+  orig: 88, 120
+  offset: 2, 9
+  index: -1
+chest
+  rotate: false
+  xy: 28, 22
+  size: 167, 190
+  orig: 176, 230
+  offset: 4, 36
+  index: -1
+chest-back
+  rotate: false
+  xy: 596, 288
+  size: 160, 190
+  orig: 166, 228
+  offset: 2, 33
+  index: -1
+claymore
+  rotate: false
+  xy: 2, 912
+  size: 503, 99
+  orig: 512, 106
+  offset: 6, 3
+  index: -1
+claymore-25
+  rotate: false
+  xy: 507, 937
+  size: 304, 12
+  orig: 339, 50
+  offset: 24, 18
+  index: -1
+claymore-50
+  rotate: false
+  xy: 28, 8
+  size: 99, 12
+  orig: 123, 32
+  offset: 10, 10
+  index: -1
+claymore-side
+  rotate: false
+  xy: 507, 999
+  size: 503, 12
+  orig: 512, 57
+  offset: 6, 22
+  index: -1
+elbow-far-reverse
+  rotate: false
+  xy: 859, 403
+  size: 93, 104
+  orig: 95, 106
+  offset: 1, 0
+  index: -1
+elbow-front
+  rotate: true
+  xy: 916, 752
+  size: 53, 44
+  orig: 58, 46
+  offset: 2, 1
+  index: -1
+elbow-near-reverse
+  rotate: false
+  xy: 738, 829
+  size: 87, 106
+  orig: 89, 109
+  offset: 1, 1
+  index: -1
+elbow_far
+  rotate: false
+  xy: 197, 105
+  size: 93, 104
+  orig: 95, 106
+  offset: 1, 1
+  index: -1
+foot-far
+  rotate: false
+  xy: 214, 211
+  size: 113, 44
+  orig: 116, 45
+  offset: 3, 1
+  index: -1
+foot-near
+  rotate: true
+  xy: 954, 394
+  size: 113, 44
+  orig: 116, 46
+  offset: 1, 1
+  index: -1
+gut
+  rotate: false
+  xy: 352, 272
+  size: 142, 193
+  orig: 145, 200
+  offset: 2, 2
+  index: -1
+gut-back
+  rotate: false
+  xy: 668, 675
+  size: 138, 152
+  orig: 142, 157
+  offset: 2, 2
+  index: -1
+halfhelm-normal
+  rotate: false
+  xy: 120, 666
+  size: 229, 244
+  orig: 256, 256
+  offset: 16, 6
+  index: -1
+hand-far-front
+  rotate: false
+  xy: 937, 336
+  size: 52, 56
+  orig: 54, 59
+  offset: 1, 2
+  index: -1
+hand-far-reverse
+  rotate: false
+  xy: 197, 24
+  size: 76, 79
+  orig: 79, 81
+  offset: 1, 2
+  index: -1
+hand-front
+  rotate: true
+  xy: 966, 656
+  size: 341, 56
+  orig: 512, 512
+  offset: 97, 372
+  index: -1
+hand-near
+  rotate: true
+  xy: 876, 153
+  size: 58, 87
+  orig: 62, 91
+  offset: 3, 2
+  index: -1
+hand-near-reverse
+  rotate: false
+  xy: 292, 137
+  size: 58, 72
+  orig: 60, 89
+  offset: 1, 0
+  index: -1
+hand_far
+  rotate: false
+  xy: 859, 324
+  size: 76, 77
+  orig: 80, 81
+  offset: 2, 1
+  index: -1
+helm
+  rotate: false
+  xy: 876, 509
+  size: 146, 145
+  orig: 150, 149
+  offset: 2, 2
+  index: -1
+pelvis
+  rotate: false
+  xy: 494, 698
+  size: 172, 129
+  orig: 177, 132
+  offset: 3, 2
+  index: -1
+pelvis-back
+  rotate: true
+  xy: 827, 807
+  size: 166, 132
+  orig: 172, 136
+  offset: 4, 1
+  index: -1
+shield-back-normal
+  rotate: true
+  xy: 120, 474
+  size: 190, 241
+  orig: 256, 256
+  offset: 33, 8
+  index: -1
+shield-side-normal
+  rotate: false
+  xy: 477, 467
+  size: 68, 229
+  orig: 256, 256
+  offset: 88, 8
+  index: -1
+shield_front_normal
+  rotate: false
+  xy: 28, 214
+  size: 184, 253
+  orig: 256, 256
+  offset: 36, 1
+  index: -1
+shin-far
+  rotate: false
+  xy: 771, 151
+  size: 103, 171
+  orig: 108, 174
+  offset: 3, 1
+  index: -1
+shin-near-reverse
+  rotate: false
+  xy: 771, 151
+  size: 103, 171
+  orig: 108, 174
+  offset: 3, 1
+  index: -1
+shin-far-reverse
+  rotate: false
+  xy: 758, 324
+  size: 99, 172
+  orig: 106, 175
+  offset: 6, 1
+  index: -1
+shin-near
+  rotate: false
+  xy: 758, 324
+  size: 99, 172
+  orig: 106, 175
+  offset: 6, 1
+  index: -1
+shortsword-side
+  rotate: true
+  xy: 2, 2
+  size: 465, 24
+  orig: 512, 69
+  offset: 15, 19
+  index: -1
+shoulder-far
+  rotate: false
+  xy: 547, 480
+  size: 107, 216
+  orig: 143, 223
+  offset: 6, 3
+  index: -1
+shoulder-far-reverse
+  rotate: false
+  xy: 496, 247
+  size: 98, 218
+  orig: 145, 224
+  offset: 16, 6
+  index: -1
+shoulder-front
+  rotate: false
+  xy: 808, 712
+  size: 106, 93
+  orig: 132, 135
+  offset: 24, 40
+  index: -1
+shoulder-near-reverse
+  rotate: false
+  xy: 656, 498
+  size: 168, 175
+  orig: 177, 181
+  offset: 3, 3
+  index: -1
+spear
+  rotate: false
+  xy: 507, 975
+  size: 457, 22
+  orig: 488, 34
+  offset: 22, 5
+  index: -1
+sword
+  rotate: false
+  xy: 2, 469
+  size: 116, 441
+  orig: 128, 512
+  offset: 6, 37
+  index: -1
+sword2
+  rotate: true
+  xy: 507, 951
+  size: 22, 311
+  orig: 82, 324
+  offset: 32, 6
+  index: -1
+sword3
+  rotate: false
+  xy: 1000, 396
+  size: 22, 111
+  orig: 41, 133
+  offset: 11, 10
+  index: -1
+thigh-far
+  rotate: false
+  xy: 214, 257
+  size: 136, 215
+  orig: 138, 217
+  offset: 1, 1
+  index: -1
+thigh-far-reverse
+  rotate: false
+  xy: 351, 698
+  size: 141, 212
+  orig: 145, 216
+  offset: 2, 2
+  index: -1
+thigh-near
+  rotate: true
+  xy: 507, 829
+  size: 106, 229
+  orig: 109, 234
+  offset: 1, 2
+  index: -1
+thigh-near-reverse
+  rotate: false
+  xy: 363, 467
+  size: 112, 229
+  orig: 118, 232
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+ui.png
+size: 252,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 36, 36
+  offset: 1, 0
+  index: -1
+bar-fill
+  rotate: false
+  xy: 132, 138
+  size: 29, 29
+  orig: 36, 36
+  offset: 4, 3
+  index: -1
+blank-thumb
+  rotate: false
+  xy: 2, 39
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+claymore-thumb
+  rotate: false
+  xy: 132, 169
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+iron-shield-thumb
+  rotate: false
+  xy: 63, 39
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+spear-thumb
+  rotate: false
+  xy: 193, 169
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+ui
+  rotate: false
+  xy: 2, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

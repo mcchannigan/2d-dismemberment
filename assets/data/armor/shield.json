@@ -1,0 +1,15 @@
+{
+	"name" : "Iron Shield",
+	"value" : 100,
+	"weight" : 4.5,
+	"minStr" : 12,
+	"minDex" : 5,
+	"minInt" : 0,
+	"uiImage" : "iron-shield-thumb",
+	"shield" : {
+		"physical" : 100,
+		"fire" : 50,
+		"lightning" : 5,
+		"stability" : 10
+	}	
+}

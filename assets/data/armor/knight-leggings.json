@@ -1,0 +1,16 @@
+{
+	"name" : "Knight Leggings",
+	"value" : 350,
+	"weight" : 8.0,
+	"minStr" : 15,
+	"minDex" : 0,
+	"minInt" : 0,
+	"uiImage" : "claymore-thumb",
+	"armor" : {
+		"defense" : 60,
+		"fireDefense" : 10,
+		"lightningDefense" : 0,
+		"class" : 3,
+		"type" : 4
+	}	
+}

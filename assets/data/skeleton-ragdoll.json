@@ -1,0 +1,66 @@
+{
+	"head" : {
+		"min" : -55,
+		"max" : 45
+	},
+	"chest" : {
+		"min" : -10,
+		"max" : 10
+	},
+	"back" : {
+		"min" : -35,
+		"max" : 40
+	},
+	"shoulder-left" : {
+		"min" : -180,
+		"max" : 180
+	},
+	"elbow-left" : {
+		"min" : -65,
+		"max" : 15
+	},
+	"hand-left" : {
+		"min" : -45,
+		"max" : 45
+	},
+	"shoulder-right" : {
+		"min" : -180,
+		"max" : 180
+	},
+	"elbow-right" : {
+		"min" : -75,
+		"max" : 15
+	},
+	"hand-right" : {
+		"min" : -45,
+		"max" : 45
+	},
+	"pelvis" : {
+		"min" : 0,
+		"max" : 0
+	},
+	"thigh-left" : {
+		"min" : -60,
+		"max" : 120
+	},
+	"shin-left" : {
+		"min" : -5,
+		"max" : 140
+	},
+	"foot-left" : {
+		"min" : -80,
+		"max" : 75
+	},
+	"thigh-right" : {
+		"min" : -60,
+		"max" : 120
+	},
+	"shin-right" : {
+		"min" : -5,
+		"max" : 140
+	},
+	"foot-right" : {
+		"min" : -80,
+		"max" : 75
+	}
+}

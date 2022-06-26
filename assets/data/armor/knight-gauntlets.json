@@ -1,0 +1,16 @@
+{
+	"name" : "Knight Gauntlets",
+	"value" : 250,
+	"weight" : 3.0,
+	"minStr" : 10,
+	"minDex" : 0,
+	"minInt" : 0,
+	"uiImage" : "claymore-thumb",
+	"armor" : {
+		"defense" : 30,
+		"fireDefense" : 10,
+		"lightningDefense" : 0,
+		"class" : 3,
+		"type" : 3
+	}	
+}

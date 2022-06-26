@@ -1,0 +1,41 @@
+{
+	"name" : "Spear",
+	"value" : 150,
+	"weight" : 2.0,
+	"minStr" : 10,
+	"minDex" : 12,
+	"minInt" : 0,
+	"uiImage" : "spear-thumb",
+	"weapon" : {
+		"damage" : 20,
+		"fireDamage" : 0,
+		"lightningDamage" : 0,
+		"scaleStr" : 0,
+		"scaleDex" : 2,
+		"scaleInt" : 0,
+		"twoHand" : false,
+		"moveSet" : {
+			"light0" : {
+				"type" : 1,
+				"cost" : 10,
+				"order" : 0,
+				"withShield" : true,
+				"animation" : "stab"
+			},
+			"heavy0" : {
+				"type" : 1,
+				"cost" : 15,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "stab_hard"
+			},
+			"heavy1" : {
+				"type" : 1,
+				"cost" : 15,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "smash"
+			}
+		}
+	}
+}

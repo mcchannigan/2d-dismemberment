@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="template" tilewidth="64" tileheight="64">
+  <image source="tilesets/tiles-template.png" width="960" height="960"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt00EKwjAQBdARra5V6gXU+1+xdRForQa1kTbwHvxVsshnMhEAAAAAAAAAAAAAAAD/tfsx2yUeW8Ctz/lNrn02T0n3T0s8toB95qyJaddaeya5vscYz7v2rg+5vp+6Rz27PbfvIaY73sZ6e8/p+6rrMCX+TmlpFt/mEvmuac5r0wGF6wLl
+  </data>
+ </layer>
+ <objectgroup name="physics" width="60" height="60">
+  <object x="0" y="3354">
+   <polyline points="0,0 899,-1 929,17 935,42 923,69 895,79 824,77 795,131 744,157 736,187 707,206 505,205 471,171 472,98 455,74 61,76 39,91 38,426 56,447 932,446 1123,255 1356,256 1378,276 1386,309 1400,318 1481,320 1508,339 1509,427 1534,448 1535,485"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="logic" width="60" height="60">
+  <object name="player" x="76" y="3691" width="70" height="76"/>
+  <object name="enemy" x="1148" y="3515" width="67" height="73"/>
+  <object name="enemy" x="567" y="3697" width="61" height="91"/>
+ </objectgroup>
+ <objectgroup name="cuttables" width="60" height="60"/>
+</map>

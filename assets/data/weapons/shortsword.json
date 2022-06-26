@@ -1,0 +1,41 @@
+{
+	"name" : "Short Sword",
+	"value" : 100,
+	"weight" : 2.0,
+	"minStr" : 8,
+	"minDex" : 8,
+	"minInt" : 0,
+	"uiImage" : "",
+	"weapon" : {
+		"damage" : 20,
+		"fireDamage" : 0,
+		"lightningDamage" : 0,
+		"scaleStr" : 2,
+		"scaleDex" : 1,
+		"scaleInt" : 0,
+		"twoHand" : false,
+		"moveSet" : {
+			"light0" : {
+				"type" : 0,
+				"cost" : 10,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "slash1"
+			},
+			"light1" : {
+				"type" : 0,
+				"cost" : 10,
+				"order" : 1,
+				"withShield" : false,
+				"animation" : "slash2"
+			},
+			"heavy0" : {
+				"type" : 1,
+				"cost" : 15,
+				"order" : 0,
+				"withShield" : false,
+				"animation" : "stab_hard"
+			}
+		}
+	}
+}
